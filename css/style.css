@@ -1,0 +1,37 @@
+h1 {
+    background-color: #cda24d;
+    text-align: center;
+    color: #867204;
+    padding: 20px;
+}
+main {
+
+    border: 3px solid #867240;    
+}
+img {
+    height: auto;
+    width: 200px;
+}
+    div {
+    padding: 20px;
+    border: 3px solid #867240;
+    width: 200px;
+}
+#chickenyakitori {
+    color: #867204;
+}
+#taameya {
+    color: #867204;
+}
+#aguadefresa {
+    color: #867204;
+}
+#authentictacosalpastor {
+    color: #867204;
+}
+.goldlink {
+    color: #867204;
+}
+li {
+    color: #867204;
+}
