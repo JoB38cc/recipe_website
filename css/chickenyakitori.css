@@ -23,10 +23,14 @@ h1,h2,h3 {
     margin-left: 50px;
 }
 .secondpic {
-    height: auto;
-    width: 500px;
+    max-height: auto;
+    max-width:90%;
     padding-left:15px;
     padding-bottom: 15px;
+}
+.fitimg {
+    height: auto;
+    width:fit-content;
 }
 .abouttherecipe {
     margin-left: 15px;
