@@ -1,0 +1,44 @@
+h1 {
+    background-color: #cda24d;
+    text-align: center;
+    color: #867204;
+    padding: 20px;
+    font-family:cursive;
+}
+main {
+    border: 3px solid #867240;    
+}
+h2,h3 {
+    color: #867204;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+}
+h1,h2,h3 {
+    text-decoration:underline double;
+    font-weight: bolder;
+}
+.firstpic {
+    height: auto;
+    width: 300px;
+    margin-left: 50px;
+}
+.secondpic {
+    height: auto;
+    width: 500px;
+    padding-left:15px;
+    padding-bottom: 15px;
+}
+.abouttherecipe {
+    margin-left: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.goldlink {
+    font-family:'Times New Roman', Times, serif;
+    color: #867204;
+}
+li{
+    color: #867204;
+}
+div {
+    color: #000000;
+}

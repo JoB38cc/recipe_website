@@ -3,9 +3,11 @@ h1 {
     text-align: center;
     color: #867204;
     padding: 20px;
+    font-family:cursive;
+    text-decoration:underline double;
+    font-weight: bolder;
 }
 main {
-
     border: 3px solid #867240;    
 }
 img {
@@ -18,18 +20,23 @@ img {
     width: 200px;
 }
 #chickenyakitori {
+    font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 #taameya {
+    font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 #aguadefresa {
+    font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 #authentictacosalpastor {
+    font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 .goldlink {
+    font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 li {
