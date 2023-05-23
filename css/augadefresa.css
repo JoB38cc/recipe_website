@@ -16,27 +16,23 @@ h2,h3 {
     font-weight: bolder;
     color: #867204;
 }
-.firstpic {
-    height: auto;
-    width:max-content;
-    margin-left: 50px;
+.abouttherecipe {
+    padding: 0px 15px 15px ;
 }
 .fitimg {
     height: auto;
     width:fit-content;
-} 
-.secondpic {
+}
+.aguadefresa {
     max-height: auto;
     max-width:90%;
     object-fit: contain;
     padding-left:15px;
     padding-bottom: 15px;
 }
-.abouttherecipe {
-    padding: 0px 15px 15px ;
-}
-.goldlink {
-    font-family:'Times New Roman', Times, serif;
+.goldhead,h2,h3 {
+    text-decoration:underline double;
+    font-weight: bolder;
     color: #867204;
 }
 li{
@@ -44,6 +40,13 @@ li{
 }
 div {
     color: #000000;
+}
+.tips {
+    padding: 0px 15px 15px ;
+}
+.goldlink {
+    font-family:'Times New Roman', Times, serif;
+    color: #867204;
 }
 .footertext {
     font-family: 'Times New Roman', Times, serif;
