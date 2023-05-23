@@ -14,31 +14,22 @@ img {
     height: auto;
     width: 200px;
 }
-    div {
+div {
     padding: 20px;
     border: 3px solid #867240;
     width: 200px;
 }
-#chickenyakitori {
-    font-family:'Times New Roman', Times, serif;
-    color: #867204;
-}
-#taameya {
-    font-family:'Times New Roman', Times, serif;
-    color: #867204;
-}
-#aguadefresa {
-    font-family:'Times New Roman', Times, serif;
-    color: #867204;
-}
-#authentictacosalpastor {
-    font-family:'Times New Roman', Times, serif;
-    color: #867204;
-}
+#authentictacosalpastor,
+#aguadefresa,
+#taameya,
+#chickenyakitori,
 .goldlink {
     font-family:'Times New Roman', Times, serif;
     color: #867204;
 }
 li {
     color: #867204;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
 }
